@@ -12,6 +12,12 @@
 
 `cd ~`
 
+###### Launch browser go to URL
+
+`start "C:\Program Files\Mozilla Firefox\firefox.exe":www.google.com`
+
+`start "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe":www.google.com`
+
 ###### Open path in notepad
 
 `notepad \Item\path.txt`
