@@ -1,32 +1,70 @@
 ### PowerShell
 
-cd ~
+###### Find Powershell Version
 
-notepad \Item\path.txt
+`$PSVersionTable`
 
-Invoke-Item .
+###### Comments
 
-ii . 
+`# I'm a comment` 
 
-mkdir
+###### Go to Home Directory
 
-h
+`cd ~`
 
-tree /f
+###### Open path in notepad
 
-Remove-Item \Item\path.txt -force -recurse
+`notepad \Item\path.txt`
 
-Get-Alias
+###### Open Explorer at Current Path
 
-$profile
+`explorer .`
 
-exit
+`Invoke-Item .`
+
+`ii .`
+
+###### Make Directory
+
+`mkdir`
+
+`echo >> \Item\path.txt`
+
+###### Input history
+
+`h`
+
+###### Current Directory Tree
+
+`tree /f`
+
+###### Remove file or folder
+
+`Remove-Item \Item\path.txt -force -recurse`
+
+###### View all aliases
+
+`Get-Alias`
+
+###### View custom profile path
+
+`$profile`
+
+###### Enable scripting (includes loading custom profilesS)
+
+`Set-ExecutionPolicy RemoteSigned`
+
+###### Close PowerShell
+
+`exit`
 
 ### vim
 
-:qw
+`vim \Item\path.txt`
 
-:q!
+`:qw`
+
+`:q!`
 
 ESC
 
