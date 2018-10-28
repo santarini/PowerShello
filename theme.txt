@@ -2,6 +2,8 @@ https://www.google.com/search?safe=off&rlz=1C1CHFX_enUS724US724&ei=nq3VW4nfMorc_
 
 https://www.powershellgallery.com/packages/OhMyPsh/0.0.2/Content/themes%5Cpowerline.ps1
 
+https://www.powershellgallery.com/packages/Communary.ConsoleExtensions/1.0.52/Content/Functions%5CWrite-RGB.ps1
+
 
 <# 
     Another one of Joel Bennett's works. 
