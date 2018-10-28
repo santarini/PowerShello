@@ -30,6 +30,18 @@
 
 `echo >> \Item\path.txt`
 
+###### Copy Directory or file
+
+`copy \Item\Startpath.txt \Item\Finishpath.txt`
+
+`cp \Item\Startpath.txt \Item\Finishpath.txt`
+
+###### Rename Directory or file
+
+`move \Item\Startpath.txt \Item\Finishpath.txt`
+
+`mv \Item\Startpath.txt \Item\Finishpath.txt`
+
 ###### Input history
 
 `h`
