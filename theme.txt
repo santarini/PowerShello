@@ -1,3 +1,8 @@
+https://www.google.com/search?safe=off&rlz=1C1CHFX_enUS724US724&ei=nq3VW4nfMorc_wTdg53QBw&q=powershell+%22CommandForegroundColor%22&oq=powershell+%22CommandForegroundColor%22&gs_l=psy-ab.3..0i71l8.0.0..8851...0.0..0.0.0.......0......gws-wiz.MkeXBiuuXAc
+
+https://www.powershellgallery.com/packages/OhMyPsh/0.0.2/Content/themes%5Cpowerline.ps1
+
+
 <# 
     Another one of Joel Bennett's works. 
     This is an example of an advanced theme with some additional plugin requirements 
