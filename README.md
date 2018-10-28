@@ -6,17 +6,17 @@
 
 ###### Print working dir
 
-pwd
+`pwd`
 
 ###### List files in pwd
 
-dir
+`dir`
 
-ls
+`ls`
 
 ###### Clear shell
 
-clear
+`clear`
 
 ###### Comments
 
