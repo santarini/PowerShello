@@ -36,7 +36,7 @@
 
 `cp \Item\Startpath.txt \Item\Finishpath.txt`
 
-###### Rename Directory or file
+###### Move or Rename Directory or file
 
 `move \Item\Startpath.txt \Item\Finishpath.txt`
 
