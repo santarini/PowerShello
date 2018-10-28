@@ -4,6 +4,20 @@
 
 `$PSVersionTable`
 
+###### Print working dir
+
+pwd
+
+###### List files in pwd
+
+dir
+
+ls
+
+###### Clear shell
+
+clear
+
 ###### Comments
 
 `# I'm a comment` 
