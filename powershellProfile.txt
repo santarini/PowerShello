@@ -1,7 +1,7 @@
 Set-Location C:\Users\santa
 
 $Shell = $Host.UI.RawUI
-$Shell.WindowTitle=öMakoa Systems Shellö
+$Shell.WindowTitle="Makoa Systems Shell"
 
 
 $host.ui.rawui.ForegroundColor = "White"
