@@ -86,6 +86,10 @@
 
 `Set-ExecutionPolicy RemoteSigned`
 
+###### Find all .txt files in directory and subdirectories
+
+`Get-ChildItem -Path *.txt -Recurse -Force`
+
 ###### Close PowerShell
 
 `exit`
