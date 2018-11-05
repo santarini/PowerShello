@@ -23,3 +23,9 @@ $options.CommandForegroundColor = 'Magenta'
 function djangoPath { cd "C:\Users\santa\OneDrive\DjangoForBegin" }
 
 function djangoPreview { start "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe":http://127.0.0.1:8000 }
+
+function chromeSearch($SearchTerm){ start "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe":"www.google.com/search?q="$SearchTerm}
+
+Set-alias vim "C:\Program Files (x86)\Vim\vim81\vim.exe"
+
+Set-alias vi "C:\Program Files (x86)\Vim\vim81\vim.exe"
