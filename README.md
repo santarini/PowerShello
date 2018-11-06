@@ -105,3 +105,5 @@
 ESC
 
 I
+
+`:scriptnames`
