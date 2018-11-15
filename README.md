@@ -66,6 +66,10 @@
 
 `h`
 
+###### Copy PWD path to clip board
+
+(pwd).Path | CLIP
+
 ###### Current Directory Tree
 
 `tree /f`
