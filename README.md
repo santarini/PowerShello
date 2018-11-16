@@ -111,3 +111,15 @@ ESC
 I
 
 `:scriptnames`
+
+##### Copy Line
+
+`yy`
+
+`Y`
+
+##### Paste Line
+
+`p`
+
+`P`
