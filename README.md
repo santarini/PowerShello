@@ -50,11 +50,17 @@
 
 `echo >> \Item\path.txt`
 
-###### Copy Directory or file
+###### Copy file
 
 `copy \Item\Startpath.txt \Item\Finishpath.txt`
 
 `cp \Item\Startpath.txt \Item\Finishpath.txt`
+
+###### Copy all files in directory recursively
+
+`copy \Item\Startpath.txt \Item\Finishpath`-recurse
+
+`cp \Item\Startpath.txt \Item\Finishpath` -recurse
 
 ###### Move or Rename Directory or file
 
