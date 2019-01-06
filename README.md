@@ -1,5 +1,18 @@
 ### PowerShell
 
+I associate this Repo with a very productive time in my life.
+
+## Upload powershell profile
+
+1. Win + X
+2. A
+
+This will bring up a power shell window with admin permissions.
+
+3. vim $profile
+4. Paste profile from this repo
+5. I, :wq, Enter
+
 ###### Find Powershell Version
 
 `$PSVersionTable`
