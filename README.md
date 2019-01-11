@@ -2,6 +2,10 @@
 
 I associate this Repo with a very productive time in my life.
 
+## Adding powershell to context menu
+
+https://www.howtogeek.com/165268/how-to-add-open-powershell-here-to-the-context-menu-in-windows/
+
 ## Upload powershell profile
 
 1. Win + X
