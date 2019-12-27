@@ -29,3 +29,6 @@ function chromeSearch($SearchTerm){ start "C:\Program Files (x86)\Google\Chrome\
 Set-alias vim "C:\Program Files (x86)\Vim\vim81\vim.exe"
 
 Set-alias vi "C:\Program Files (x86)\Vim\vim81\vim.exe"
+
+#getPublicIp returns your public ip
+function getPublicIp {(Invoke-WebRequest -uri "http://ifconfig.me/ip").Content} 
