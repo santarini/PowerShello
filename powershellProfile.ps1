@@ -32,3 +32,5 @@ Set-alias vi "C:\Program Files (x86)\Vim\vim81\vim.exe"
 
 #getPublicIp returns your public ip
 function getPublicIp {(Invoke-WebRequest -uri "http://ifconfig.me/ip").Content} 
+
+function getPublicIpData {Invoke-RestMethod -uri ('http://ipinfo.io/'+(Invoke-WebRequest -uri "http://ifconfig.me/ip").Content)}  
